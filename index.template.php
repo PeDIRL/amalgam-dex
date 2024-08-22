@@ -6,11 +6,11 @@
 	<title>Pok&eacute;dex - Pok&eacute;mon Showdown</title>
 
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
-	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/font-awesome.css" />
+	<link rel="stylesheet" href="/data/font-awesome.css" />
 	<link rel="stylesheet" href="/theme/panels.css?" />
 	<link rel="stylesheet" href="/theme/main.css?" />
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/utilichart.css?" />
+	<link rel="stylesheet" href="/data/utilichart.css?" />
 	<link rel="stylesheet" href="/theme/pokedex.css?" />
 
 	<!-- Workarounds for IE bugs to display trees correctly. -->
