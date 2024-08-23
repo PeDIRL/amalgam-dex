@@ -80,7 +80,7 @@
 	<script src="/data/typechart.js?"></script>
 	<script src="/data/aliases.js?"></script>
 	<script src="/data/battle-dex-search.js?"></script>
-	<script src="//play.pokemonshowdown.com/js/search.js?"></script>
+	<script src="/data/search.js?"></script>
 	<script src="/js/pokedex.js?"></script>
 	<script src="/js/pokedex-pokemon.js?"></script>
 	<script src="/js/pokedex-moves.js?"></script>
