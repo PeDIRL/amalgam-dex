@@ -71,7 +71,7 @@
 	<script src="//play.pokemonshowdown.com/js/battledata.js?"></script>
 	<script src="//play.pokemonshowdown.com/data/search-index.js?"></script>
 	<script src="/data/pokedex.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/teambuilder-tables.js?"></script>
+	<script src="/data/teambuilder-tables.js?"></script>
 	<script src="//play.pokemonshowdown.com/data/learnsets.js?"></script>
 	<script src="/data/moves.js?"></script>
 	<script src="/data/abilities.js?"></script>
@@ -79,7 +79,7 @@
 	<script src="//play.pokemonshowdown.com/data/formats-data.js?"></script>
 	<script src="/data/typechart.js?"></script>
 	<script src="/data/aliases.js?"></script>
-	<script src="//play.pokemonshowdown.com/js/battle-dex-search.js?"></script>
+	<script src="/data/battle-dex-search.js?"></script>
 	<script src="//play.pokemonshowdown.com/js/search.js?"></script>
 	<script src="/js/pokedex.js?"></script>
 	<script src="/js/pokedex-pokemon.js?"></script>
